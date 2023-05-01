@@ -11,4 +11,4 @@ Viene quindi utilizzata la classe Email per inviare un'email al destinatario con
 
 Le altre classi presenti nel codice sono la classe Blockchain, che gestisce la creazione delle transazioni nella blockchain, la classe Email, che si occupa dell'invio delle email e la classe User, che gestisce le informazioni dell'utente, inclusi l'indirizzo email e il saldo delle monete virtuali. La classe User contiene anche i metodi per verificare la validità dell'indirizzo email dell'utente, per aggiungere una moneta virtuale al saldo dell'utente e per verificare se l'utente ha abbastanza monete virtuali per inviare una moneta.
 
-live: https://answer.analyticsweb.it/generatoremonete/?azione=moneta
+live: https://answer.analyticsweb.it/generatoremonete/
